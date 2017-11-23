@@ -1,0 +1,26 @@
+.footer
+{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.copyright
+{
+	color: #DDD;
+	font-family: 'Lato', sans-serif; /* Default Font Family */
+	font-weight: 400;
+	font-size: 0.75rem;
+}
+
+.copyright a
+{
+	text-decoration: none;
+	color: rgba(241, 196, 15, 1);
+}
+
+.copyright a:hover
+{
+	cursor: pointer;
+	text-decoration: none;
+	color: rgba(241, 196, 15, 0.7);
+}
